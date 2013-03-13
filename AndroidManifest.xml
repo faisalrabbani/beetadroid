@@ -30,7 +30,7 @@
         <activity
 	        android:name="com.example.trainingStep1.DisplayMessageActivity"
 	        android:label="@string/title_activity_display_message"
-	        android:parentActivityName="com.example.myfirstapp.MainActivity" >
+	        android:parentActivityName="com.example.myfirstapp.MainActivity"33 >
 	        <meta-data
 	            android:name="android.support.PARENT_ACTIVITY"
 	            android:value="com.example.trainingStep1.MainActivity" />
