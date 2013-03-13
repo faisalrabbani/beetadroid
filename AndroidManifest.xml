@@ -20,7 +20,7 @@
             android:name=".MainActivity"
             android:label="@string/title_activity_main" >
             <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
+                <action android:name="android.intent.action." />
                 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
@@ -28,7 +28,7 @@
 
         
         <activity
-	        android:name="com.example.trainingStep1.DisplayMessageActivity"
+	        android:name="com.example.trainingStep1"
 	        android:label="@string/title_activity_display_message"
 	        android:parentActivityName="com.example.myfirstapp.MainActivity"33 >
 	        <meta-data
