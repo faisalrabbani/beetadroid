@@ -6,7 +6,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.EditText;
 
-public class MainActivity extends Activity {
+public class MainActivity extends Activityz {
 
 	public final static String EXTRA_MESSAGE = "com.example.trainingstep1.MESSAGE"; 
 	
