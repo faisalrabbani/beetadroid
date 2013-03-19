@@ -28,7 +28,7 @@
 
         
         <activity
-	        android:name="com.example.trainingStep1"
+	        android:name="com.example.trainingStep1567"
 	        android:label="@string/title_activity_display_message"
 	        android:parentActivityName="com.example.myfirstapp.MainActivity"33 >
 	        <meta-data
