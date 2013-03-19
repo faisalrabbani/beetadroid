@@ -9,6 +9,7 @@
     sdfasdfsdafasd
     sdfsdfsafsa
     sdfd
+    Test
         
         android:minSdkVersion="8"
         android:targetSdkVersion="15" />
